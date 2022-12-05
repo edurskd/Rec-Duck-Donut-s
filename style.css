@@ -148,6 +148,11 @@ form label, form legend {
   background: rgb(1, 163, 1);
   transform: scale(1.2);
 }
+ 
+body {
+  background: linear-gradient( rgb(241, 242, 230), rgb(233, 253, 11));
+  ;
+}
 
 /*Tabela de horario*/
 
@@ -206,7 +211,7 @@ td, th {
 
 .mapa {
   padding: 3em 0;
-  background: linear-gradient( rgb(102, 171, 100), rgb(7, 79, 18));
+  background: linear-gradient( rgb(176, 238, 174), rgb(7, 79, 18));
 }
 
 .mapa-conteudo {
@@ -221,7 +226,7 @@ td, th {
 
 .beneficios {
   padding: 3em 0;
-  background: rgb(68, 200, 110);
+  background:linear-gradient(rgb(238, 17, 183) rgb(117, 40, 171))
 }
 
 .conteudo-beneficios {
