@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(5, 51, 3);
+    background: rgb(255, 37, 164);
     padding: 20px 0;
 }
 
@@ -68,7 +68,7 @@ nav a:hover {
  }
 
 .produtos li:active {
-    border-color: rgb(159, 240, 159);
+    border-color: rgb(255, 253, 137);
 }
 
 .produtos li:hover h2 {
@@ -150,7 +150,7 @@ form label, form legend {
 }
  
 body {
-  background: linear-gradient( rgb(241, 242, 230), rgb(169, 231, 141));
+  background: linear-gradient( rgb(255, 253, 137), rgb(157, 255, 111));
   ;
 }
 
