@@ -99,7 +99,7 @@ nav a:hover {
 
  footer {
     text-align: center;
-    background: #ece364;
+    background: #000000;
     padding: 10px 0;
  }
 
@@ -190,7 +190,7 @@ td, th {
 
 .principal {
   padding: 3em 0;
-  background: #fc91ee;
+  background: #f1fc91;
   width: 940px;
   margin: 0 auto;
 }
