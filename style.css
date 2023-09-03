@@ -226,7 +226,7 @@ td, th {
 
 .beneficios {
   padding: 3em 0;
-  background:linear-gradient(rgb(23, 255, 2), rgb(0, 0, 0))
+  background:linear-gradient(rgb(255, 255, 255), rgb(23, 255, 2), rgb(0, 0, 0))
 }
 
 .conteudo-beneficios {
