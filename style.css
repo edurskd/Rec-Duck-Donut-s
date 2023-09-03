@@ -226,7 +226,7 @@ td, th {
 
 .beneficios {
   padding: 3em 0;
-  background:linear-gradient(rgb(243, 188, 229) rgb(208, 177, 230))
+  background:linear-gradient(rgb(23, 255, 2) rgb(0, 0, 0))
 }
 
 .conteudo-beneficios {
@@ -269,7 +269,7 @@ td, th {
 
 .copyrigth {
   margin-top: 15px;
-  color:FFFFFF;
+  color:#000000;
   font-size: 15px;
 }
 
