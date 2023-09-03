@@ -145,7 +145,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-  background: #ece364;
+  background: #000000;
   transform: scale(1.2);
 }
  
