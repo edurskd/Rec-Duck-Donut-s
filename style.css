@@ -1,6 +1,9 @@
 body {
   font-family: 'Nunito', sans-serif; 
+color:#e1f14d
 }
+
+
 
 /*Produtos de venda*/
 
@@ -150,7 +153,7 @@ form label, form legend {
 }
  
 body {
-  background: linear-gradient( #000000), rgb(0, 0, 0);
+  background: linear-gradient( #ffffff), rgb(0, 0, 0);
   ;
 }
 
