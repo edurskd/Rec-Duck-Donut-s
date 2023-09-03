@@ -211,7 +211,7 @@ td, th {
 
 .mapa {
   padding: 3em 0;
-  background: linear-gradient( rgb(245, 222, 12), rgb(255, 255, 255));
+  background: linear-gradient( rgb(255, 255, 255), rgb(245, 222, 12));
 }
 
 .mapa-conteudo {
