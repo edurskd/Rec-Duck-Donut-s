@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(239, 137, 193);
+    background: rgb(230, 48, 148);
     padding: 20px 0;
 }
 
@@ -68,7 +68,7 @@ nav a:hover {
  }
 
 .produtos li:active {
-    border-color: rgb(9, 160, 9);
+    border-color: rgb(159, 240, 159);
 }
 
 .produtos li:hover h2 {
@@ -269,7 +269,7 @@ td, th {
 
 .copyrigth {
   margin-top: 15px;
-  color: rgb(255, 255, 255);
+  color:FFFFFF;
   font-size: 15px;
 }
 
