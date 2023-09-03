@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(255, 37, 164);
+    background: rgb(250, 95, 185);
     padding: 20px 0;
 }
 
@@ -99,7 +99,7 @@ nav a:hover {
 
  footer {
     text-align: center;
-    background: #9BCE8A;
+    background: #ece364;
     padding: 10px 0;
  }
 
@@ -150,7 +150,7 @@ form label, form legend {
 }
  
 body {
-  background: linear-gradient( rgb(123, 255, 111), rgb(0, 0, 0));
+  background: linear-gradient( #ece364), rgb(0, 0, 0));
   ;
 }
 
@@ -211,7 +211,7 @@ td, th {
 
 .mapa {
   padding: 3em 0;
-  background: linear-gradient( rgb(255, 251, 2), rgb(255, 255, 255));
+  background: linear-gradient( rgb(250, 95, 185), rgb(255, 255, 255));
 }
 
 .mapa-conteudo {
