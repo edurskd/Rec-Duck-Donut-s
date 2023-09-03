@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(230, 48, 148);
+    background: rgb(5, 51, 3);
     padding: 20px 0;
 }
 
@@ -150,7 +150,7 @@ form label, form legend {
 }
  
 body {
-  background: linear-gradient( rgb(241, 242, 230), rgb(233, 253, 11));
+  background: linear-gradient( rgb(241, 242, 230), rgb(169, 231, 141));
   ;
 }
 
