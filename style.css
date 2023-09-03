@@ -150,7 +150,7 @@ form label, form legend {
 }
  
 body {
-  background: linear-gradient( rgb(23, 255, 2), rgb(0, 0, 0));
+  background: linear-gradient( rgb(123, 255, 111), rgb(0, 0, 0));
   ;
 }
 
@@ -211,7 +211,7 @@ td, th {
 
 .mapa {
   padding: 3em 0;
-  background: linear-gradient( rgb(23, 255, 2), rgb(0, 0, 0));
+  background: linear-gradient( rgb(255, 251, 2), rgb(255, 255, 255));
 }
 
 .mapa-conteudo {
